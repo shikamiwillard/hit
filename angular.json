@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "/home/shikami/MEGA/Projects/MAIN/Web/newsfeed/semantic/out/semantic.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "/home/shikami/MEGA/Projects/MAIN/Web/newsfeed/semantic/out/semantic.min.js"
+            ]
           },
           "configurations": {
             "production": {
